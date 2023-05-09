@@ -1,5 +1,6 @@
 # Proyecto_Countries_by_population
 
+![CountriesbyPopulation](CountriesbyPopulation.png)
 
 ## Contexto y rol a desarrollar
 
